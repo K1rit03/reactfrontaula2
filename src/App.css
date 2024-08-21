@@ -1,0 +1,19 @@
+h1{
+  color: red;
+  background-color: blueviolet;
+  font-family: sans-serif;
+  font-size: 35px;
+}
+
+body{
+  background-color: blanchedalmond;
+}
+.div1{
+  border: 8px,solid,blue;
+  padding: 20px;
+}
+
+.paragr1{
+  color: blueviolet;
+  font-weight: bold;
+}
